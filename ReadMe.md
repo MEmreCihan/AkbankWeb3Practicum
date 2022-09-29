@@ -1,0 +1,1 @@
+This js codes only build for Akbank Web3 Practicum
